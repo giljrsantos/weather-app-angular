@@ -24,7 +24,6 @@ styles.scss
 .settings/
 *.sublime-workspace
 
-
 # Visual Studio Code
 .vscode/*
 !.vscode/settings.json
